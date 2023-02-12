@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "enter lenght"
+read 1
+echo "enter base"
+read b
+area=$((1*b))
+echo "area of
+rectangle"=$area
